@@ -1,0 +1,28 @@
+body{
+    background-color: #d6e5eb;
+    text-align:center;
+}
+main{
+   margin-top:40vh;
+}
+#num{
+    font-size: 50px;
+
+    color:olivedrab;
+}
+h1{
+    font-size: 70px;
+}
+button{
+    width: 7rem;
+    height:2rem;
+    margin-left:10px;
+    border-radius:5px;
+}
+button:hover{
+    background-color:lightskyblue;
+
+}
+button:active{
+    color:white;
+}
